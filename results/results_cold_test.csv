@@ -1,0 +1,6 @@
+,NDCG@10,Recall@10,Users
+Random,0.0031,0.0034,2865.0
+Content (no training),0.01,0.0116,2865.0
+Two-tower (text + ID),0.0379,0.0411,2865.0
+"Two-tower, non-personalized (same list for all)",0.0369,0.0388,2865.0
+"Two-tower, ID only (no text)",0.0023,0.0023,2865.0
